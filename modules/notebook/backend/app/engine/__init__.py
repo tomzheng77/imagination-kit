@@ -19,7 +19,8 @@ def get_chat_engine():
         tools.append(query_engine_tool)
 
     # Add additional tools
-    tools += ToolFactory.from_env()
+    if os.getenv("ENABLE_TOOLS") == 'true':
+        tools += ToolFactory.from_env()
 
     return AgentRunner.from_llm(
         llm=Settings.llm,

@@ -1,0 +1,8 @@
+- Paul came over and hugged me
+    - Wow so many - liked the cigarettes I brought from China
+- Archie worked through a refactor exercise with me
+    - getPhantomSlaves
+    - getNumDesiredSlaves
+- Toby opened the door for you
+- “How do you do the UI so fast” - Mara
+- Don’t tell your team but we may consider moving you to PXP - Tony
