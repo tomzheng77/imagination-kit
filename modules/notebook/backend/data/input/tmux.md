@@ -15,6 +15,7 @@
 - <prefix> + I to install plugins
 - Mac OS: disable settings > keyboard
   - so then Ctrl+Space doesn't change the language
+- differences on Mac compared to linux
 
 ### Appendix A
 ```
