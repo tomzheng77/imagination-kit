@@ -91,3 +91,9 @@
 - daily use of crypto by Argentinians and Africans
 
 ### Alpha Tree Searching
+
+### Average Trade Size
+- overtrade on smaller traders vs larger traders
+- trade size large average pnl low
+- the more smaller traders the stronger the alpha
+
